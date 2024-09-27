@@ -1,4 +1,4 @@
-const words = ['escravidão', 'tráfico', 'carga humana', 'direitos humanos', 'abolição'];
+const words = ['escravidao', 'trafico', 'carga humana', 'direitos humanos', 'aboliçao'];
 let chosenWord;
 let guessedLetters;
 let wrongLetters;
