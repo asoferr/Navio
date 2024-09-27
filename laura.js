@@ -2,12 +2,12 @@ const questions = [
     {
         question: "Qual é o tema principal do poema 'Navio Negreiro'?",
         options: {
-            a: "A abolição da escravatura",
-            b: "A celebração da independência do Brasil",
-            c: "A vida cotidiana dos nobres",
-            d: "A natureza e a descrição das paisagens"
+            a: "As aventuras de navegantes",
+            b: "A celebração da liberdade dos escravizados",
+            c: "A abolição da escravatura",
+            d: "As tradições africanas"
         },
-        answer: "a",
+        answer: "c",
         image: "img/img1.jpg"
     },
     {
@@ -24,20 +24,20 @@ const questions = [
     {
         question: "Qual a importância do poema 'Navio Negreiro' na literatura brasileira?",
         options: {
-            a: "Denuncia a escravidão",
-            b: "Celebra a independência",
-            c: "Descreve a natureza",
-            d: "Fala sobre a monarquia"
+            a: "Retrata a vida dos escravizados",
+            b: "Critica a opressão colonial",
+            c: "Explora a cultura afro-brasileira",
+            d: "Denuncia a escravidão"
         },
-        answer: "a",
+        answer: "d",
         image: "img/img3.jpg"
     },
     {
         question: "Qual sentimento o autor expressa em relação à escravidão?",
         options: {
             a: "Tristeza e indignação",
-            b: "Felicidade e orgulho",
-            c: "Indiferença",
+            b: "Esperança de mudança",
+            c: "Reflexão e resignação",
             d: "Esperança de liberdade"
         },
         answer: "a",
@@ -46,21 +46,21 @@ const questions = [
     {
         question: "O que o autor critica em 'Navio Negreiro'?",
         options: {
-            a: "A opressão e sofrimento dos escravizados",
-            b: "A corrupção política",
-            c: "A desigualdade social",
-            d: "A cultura brasileira"
+            a: "A desigualdade social",
+            b: "As injustiças sociais enfrentadas pelos escravizados",
+            c: "A opressão e sofrimento dos escravizados",
+            d: "As condições de vida dos imigrantes"
         },
-        answer: "a",
+        answer: "c",
         image: "img/img5.jpg"
     },
     {
         question: "Qual é a estrutura poética do 'Navio Negreiro'?",
         options: {
-            a: "Soneto",
-            b: "Poema livre",
-            c: "Lira",
-            d: "Elegia"
+           "a": "Um poema de versos livres",
+            "b": "Soneto com rimas complexas",
+            "c": "Lira com estrofes intercaladas",
+            "d": "Uma balada popular"
         },
         answer: "c",
         image: "img/img6.jpg"
