@@ -133,3 +133,11 @@ button:hover {
     font-weight: bold;
     color: #ffeb3b; /* Cor do texto */
 }
+
+#hint {
+    color: #ff6f61;
+}
+
+#wrongLetters {
+    color: #ff6f61;
+}
